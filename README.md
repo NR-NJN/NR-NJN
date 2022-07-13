@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NR-NJN
-- 👀 I’m interested in algorithmic trading
-- 🌱 I’m currently learning Matlab
+- 👀 I’m interested
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you prolly cant
 
