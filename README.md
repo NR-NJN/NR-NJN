@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NR-NJN
-- 👀 I’m interested
-- 🌱 I’m currently learning 
+- 👀 I’m interested in implementing high level computational algorithms to improve financial models
+- 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you prolly cant
 
