@@ -2,7 +2,7 @@
 - 👀 I’m interested in implementing high level computational algorithms to improve financial models
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you prolly cant
+- 📫 How to reach me - https://www.linkedin.com/in/niranjan-ajgaonkar-b2b895225/
 
 <!---
 NR-NJN/NR-NJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
