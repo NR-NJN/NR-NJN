@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NR-NJN
 - 👀 I’m kool
-- 🌱 I’m currently learning Haskell
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - https://www.linkedin.com/in/niranjan-ajgaonkar-b2b895225/
 
