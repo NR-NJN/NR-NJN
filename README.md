@@ -1,5 +1,3 @@
-<img align = "right" src="https://visitor-badge.laobi.icu/badge?page_id=NR-NJN.NR-NJN&left_color=red&right_color=green&left_text=Hello%20Visitors"/>
-
 <h1 align = "center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&weight=700&size=25&pause=1000&color=0E62F7&background=07FD7300&center=true&random=false&width=550&height=90&lines=WOULD+YOU+KINDLY+STAY%3F" alt="Typing SVG" />
