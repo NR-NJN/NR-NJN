@@ -36,3 +36,13 @@
     <img src="https://skillicons.dev/icons?i=git,aws,azure,bash,cmake,mongodb,mysql,kali,vim"/>
   </a>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+<h2>🌳 Statistics 🌳</h2>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=NR-NJN&theme=dark&count_private=true"/>
+</div>
