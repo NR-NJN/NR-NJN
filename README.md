@@ -12,7 +12,7 @@
 
 🎮 Passionate about **Game development**
 
-:godmode: Current interests include **Artificial Intelligence, Cloud, Animations, Algorithms**
+:godmode: Current interests include **Artificial Intelligence, Systems Programming, Cloud, Animations, Algorithms**
 
 </div>
 
