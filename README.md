@@ -10,7 +10,7 @@
 
 <div align = "center">
 
-🎮 Passionate about **Game development**
+🎮 Passionate about **Computer Security**
 
 :godmode: *Cyberdemon Man, AI, Algorithms*
 
