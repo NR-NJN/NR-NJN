@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align= "center"> Final year Computer Science Student</h3>
+<h3 align= "center"> First year Masters Computer Science Student</h3>
 
 <br/>
 
