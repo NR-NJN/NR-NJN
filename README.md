@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align= "center"> First year Masters Computer Science Student</h3>
+<h3 align= "center"> First year Master's Computer Science Student</h3>
 
 <br/>
 
@@ -33,7 +33,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity"/><br>
     <img src="https://skillicons.dev/icons?i=py,js,html,css,java,tensorflow,opencv"/><br>
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,bash,cmake,mongodb,mysql,kali,vim"/>
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,azure,bash,cmake,mysql,kali,vim"/>
   </a>
 </div>
 
