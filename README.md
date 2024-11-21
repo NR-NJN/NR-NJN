@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align= "center"> First year Master's Computer Science Student</h3>
-
+<h3 align= "center"> New York University</h3>
 <br/>
 
 <div align = "center">
