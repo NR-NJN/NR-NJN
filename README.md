@@ -24,7 +24,7 @@
 
 <hr/>
 
-<h2 align="center">💻🔧 Frameworks Tools Languages 🔧💻</h2>
+<h2 align="center">💻🔧 Framework/Tools/Languages 🔧💻</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
