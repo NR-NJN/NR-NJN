@@ -12,7 +12,7 @@
 
 🎮 Me when I do **Cyber Security**
 
-:godmode: *Cyberdemon Man, AI, Algorithms*
+:godmode: *Cyberdemon Man*
 
 </div>
 
